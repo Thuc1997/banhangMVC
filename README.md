@@ -1,7 +1,7 @@
-Website bán hàng theo mô hình php mvc
-tài khoản khách hàng:
-tk: khachhang
-mk: 123456
-tài khoản quản trị viên:
-tk: quantri
+Website bán hàng theo mô hình php mvc<br/>
+tài khoản khách hàng:<br/>
+tk: khachhang<br/>
+mk: 123456<br/><br/>
+tài khoản quản trị viên:<br/>
+tk: quantri<br/>
 mk: 123456
